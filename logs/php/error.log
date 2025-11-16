@@ -1,0 +1,132 @@
+[07-Aug-2025 14:20:12 UTC] PHP Warning:  Attempt to read property "title" on null in /home/presotto/Local Sites/tcc/app/public/wp-includes/class-wp-customize-widgets.php on line 926
+[10-Aug-2025 19:17:25 UTC] PHP Warning:  Attempt to read property "title" on null in /home/presotto/Local Sites/tcc/app/public/wp-includes/class-wp-customize-widgets.php on line 926
+[13-Aug-2025 17:17:46 UTC] PHP Warning:  Attempt to read property "title" on null in /home/presotto/Local Sites/tcc/app/public/wp-includes/class-wp-customize-widgets.php on line 926
+[14-Aug-2025 10:48:14 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[14-Aug-2025 11:47:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "the_permalink" in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:7
+Stack trace:
+#0 /home/presotto/Local Sites/tcc/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/presotto/Local Sites/tcc/app/public/wp-blog-header.php(19): require_once('/home/presotto/...')
+#2 /home/presotto/Local Sites/tcc/app/public/index.php(17): require('/home/presotto/...')
+#3 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 7
+[14-Aug-2025 12:14:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actioin() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/functions.php:8
+Stack trace:
+#0 /home/presotto/Local Sites/tcc/app/public/wp-settings.php(695): include()
+#1 /home/presotto/Local Sites/tcc/app/public/wp-config.php(103): require_once('/home/presotto/...')
+#2 /home/presotto/Local Sites/tcc/app/public/wp-load.php(50): require_once('/home/presotto/...')
+#3 /home/presotto/Local Sites/tcc/app/public/wp-blog-header.php(13): require_once('/home/presotto/...')
+#4 /home/presotto/Local Sites/tcc/app/public/index.php(17): require('/home/presotto/...')
+#5 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/functions.php on line 8
+[14-Aug-2025 12:28:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:28:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:37:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:37:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:39:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:39:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:39:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:39:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:47:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:48:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 12:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 13:00:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 13:26:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 13:30:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[14-Aug-2025 13:31:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/index.php on line 1
+[21-Aug-2025 12:17:19 UTC] PHP Warning:  Attempt to read property "title" on null in /home/presotto/Local Sites/tcc/app/public/wp-includes/class-wp-customize-widgets.php on line 926
+[18-Oct-2025 16:28:23 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM wp_options WHERE option_name = '_site_transient_update_core' LIMIT 1 made by include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->run_command_and_exit, WP_CLI\Runner->run_command, WP_CLI\Dispatcher\Subcommand->invoke, call_user_func, WP_CLI\Dispatcher\CommandFactory::WP_CLI\Dispatcher\{closure}, call_user_func, Core_Command->check_update, Core_Command->get_updates, wp_version_check, get_site_transient, get_site_option, get_network_option, get_option
+[18-Oct-2025 20:57:40 UTC] PHP Parse error:  syntax error, unexpected token "while" in /Users/presotto/Local Sites/tcc/app/public/wp-content/themes/tcc-theme/page.php on line 5
+[20-Oct-2025 00:42:08 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/presotto/Local Sites/tcc/app/public/wp-includes/class-wp-customize-widgets.php on line 926
+[20-Oct-2025 10:50:11 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/presotto/Local Sites/tcc/app/public/wp-includes/class-wp-customize-widgets.php on line 926
+[20-Oct-2025 10:51:53 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/presotto/Local Sites/tcc/app/public/wp-includes/class-wp-customize-widgets.php on line 926
+[23-Oct-2025 00:09:25 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\User\Local Sites\tcc\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[23-Oct-2025 00:24:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_header_menu() in C:\Users\User\Local Sites\tcc\app\public\wp-content\themes\tcc-theme\header.php:13
+Stack trace:
+#0 C:\Users\User\Local Sites\tcc\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\User\Local Sites\tcc\app\public\wp-includes\template.php(745): load_template('C:\\Users\\User\\L...', true, Array)
+#2 C:\Users\User\Local Sites\tcc\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\User\Local Sites\tcc\app\public\wp-content\themes\tcc-theme\front-page.php(1): get_header()
+#4 C:\Users\User\Local Sites\tcc\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#5 C:\Users\User\Local Sites\tcc\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#6 C:\Users\User\Local Sites\tcc\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#7 {main}
+  thrown in C:\Users\User\Local Sites\tcc\app\public\wp-content\themes\tcc-theme\header.php on line 13
+[23-Oct-2025 13:30:28 UTC] PHP Parse error:  syntax error, unexpected identifier "por", expecting "," or ";" in /Users/presotto/Local Sites/tccdonini/app/public/wp-content/themes/tcc-theme/front-page.php on line 16
+[13-Nov-2025 11:10:15 UTC] PHP Parse error:  Unterminated comment starting line 3 in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:10:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\User\Local Sites\tccdonini\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[13-Nov-2025 11:10:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\User\Local Sites\tccdonini\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[13-Nov-2025 11:10:16 UTC] PHP Parse error:  Unterminated comment starting line 3 in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:10:16 UTC] PHP Parse error:  Unterminated comment starting line 3 in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:10:25 UTC] PHP Parse error:  Unterminated comment starting line 3 in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:11:08 UTC] PHP Parse error:  Unterminated comment starting line 3 in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:11:08 UTC] PHP Parse error:  Unterminated comment starting line 3 in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:11:16 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:11:16 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:12:09 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:12:09 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:12:26 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:12:33 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:12:33 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:12:36 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
+[13-Nov-2025 11:12:36 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in C:\Users\User\Local Sites\tccdonini\app\public\wp-content\themes\tcc-theme\functions.php on line 3
